@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestLoginext</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="photo">Photo</string>
+    <string name="camera">Camera</string>
+    <string name="realtime">Real </string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="turn_on_gps">Please Turn on GPS</string>
+    <string name="DEBUG_API_KEY">AIzaSyAPbQ82tzH3GyBUKbmIgN8r6TRbpaDpIa0</string>
+    <string name="RELEASE_API_KEY">AIzaSyB2epHQHG1oM_3XMV9-2fbdIe7Csji9vk0 </string>
+
+</resources>
